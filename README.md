@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ASKeegan
-- 👀 I’m interested in code to become a full-stack developer
-- 🌱 I’m currently learning JavaScrip 
-- 💞️ I’m looking to collaborate on projects for beginners with people on my level
-- 📫 How to reach me, here is my email alejandrokeeganserran@gmail.com
+- 👀 I’m a Junior Front-End Developer
+- 🌱 Learning more and more every day
+- 💞️ Exited to help you with your next proyect
+- 📫 How to reach me, here is my email alejandrokeeganserrandev@gmail.com
 
 <!---
 ASKeegan/ASKeegan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
