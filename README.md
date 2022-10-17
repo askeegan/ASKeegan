@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ASKeegan
+- 👋 Hi, I’m @askeegan
 - 👀 I’m a Junior Front-End Developer
 - 🌱 Learning every day more and more
 - 💞️ Excited to help you with your next project!
