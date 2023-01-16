@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @askeegan
 - 👀 Basics on Front-End Development
-- 🌱 Learning every day more and more
+- 🌱 Learning more every day
 - 💞️ Excited to help you with your next project!
 - 📫 How to reach me? Here is my email alejandrokeeganserrandev@gmail.com
 
