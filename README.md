@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @askeegan
-- 👀 I’m a Junior Front-End Developer
+- 👀 Basics on Front-End Development
 - 🌱 Learning every day more and more
 - 💞️ Excited to help you with your next project!
 - 📫 How to reach me? Here is my email alejandrokeeganserrandev@gmail.com
