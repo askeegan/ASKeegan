@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @askeegan
-- 👀 Basics on Front-End Development
+- 🌐 Front-End Developer and & Design Enthusiast 
+- 🍕 Future Full-Stack Dev in the oven 
 - 🌱 Learning more every day
 - 💞️ Excited to help you with your next project!
 - 📫 How to reach me? Here is my email alejandrokeeganserrandev@gmail.com
