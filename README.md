@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @askeegan
-- 🌐 Front-End Developer and & Design Enthusiast 
+- 🌐 Front-End Developer & Design Enthusiast 
 - 🍕 Future Full-Stack Dev in the oven 
 - 🌱 Learning more every day
 - 💞️ Excited to help you with your next project!
